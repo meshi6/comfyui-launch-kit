@@ -9,6 +9,6 @@ dependencies = []
 Repository = "https://github.com/meshi6/comfyui-launch-kit"
 
 [tool.comfy]
-PublisherId = "" # TODO: your publisher ID from registry.comfy.org (the part after @ on your profile)
+PublisherId = "meshi6"
 DisplayName = "Launch Kit"
 Icon = ""
