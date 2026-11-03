@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-launch-kit"
+description = "Your game's storefront inside ComfyUI: one style guide that keeps every asset on-brand, all 10 Steam/itch/app-icon sizes in one node, and a Steam search-size legibility check."
+version = "1.0.0"
+license = { file = "LICENSE" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/meshi6/comfyui-launch-kit"
+
+[tool.comfy]
+PublisherId = "" # TODO: your publisher ID from registry.comfy.org (the part after @ on your profile)
+DisplayName = "Launch Kit"
+Icon = ""
